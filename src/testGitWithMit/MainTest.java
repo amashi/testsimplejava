@@ -17,7 +17,8 @@ public class MainTest {
 	
 	public MainTest() {
 		
-	
+			System.out.println("ravvvv");
+		System.out.println("shlomi");
 	}
 
 }
